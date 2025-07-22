@@ -20,19 +20,6 @@ This project was built as part of my learning journey with **GSAP** (GreenSock A
 - **JavaScript (Vanilla)**
 - **GSAP** & **ScrollTrigger**
 
-## 📁 Folder Structure
-
-```
-index.html
-style.css
-script.js
-/assets (optional)
-```
-
-## 📸 Screenshots
-
-*Add screenshots of your animated sections (Hero, Features, etc.) here*
-
 ## 🚫 Limitations
 
 - ❌ Not fully responsive (desktop-focused layout)
@@ -40,7 +27,7 @@ script.js
 
 ## 🚀 Live Preview
 
-*Optional: Add Netlify/Vercel/GitHub Pages link here if deployed*
+*Live Demo: https://justtkajuu.github.io/Marketing-Landing-Page/
 
 ## 📬 Contact
 
